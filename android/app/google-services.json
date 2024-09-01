@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797141689557",
+    "project_id": "cvapp-11b0e",
+    "storage_bucket": "cvapp-11b0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797141689557:android:664fd8a96db52759d66e5c",
+        "android_client_info": {
+          "package_name": "com.example.resume_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFZVEWJwKW4DWPZx1AwwlALEjS48q2VDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
